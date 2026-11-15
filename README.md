@@ -41,3 +41,27 @@ This project strengthened my practical skills in Python, object-oriented program
 ## Project Type
 University Academic Project – Object-Oriented Programming II.
 
+## Model Results
+
+The Logistic Regression model was trained and evaluated using the Iris dataset.
+
+- **Total Samples:** 150
+- **Training Samples:** 120 (80%)
+- **Testing Samples:** 30 (20%)
+- **Accuracy:** 100% on the evaluated test split
+- **Missing Values:** None
+
+The program completed successfully without execution errors.
+
+## Data Visualization
+
+### Petal Length vs Petal Width
+![Scatter Plot](screenshots/scatter_plot.png)
+
+### Sepal Length Distribution
+![Histogram](screenshots/histogram.png)
+
+## Model Performance
+![Model Results](screenshots/model_results.png) 
+
+
