@@ -65,3 +65,17 @@ The program completed successfully without execution errors.
 ![Model Results](screenshots/model_results.png) 
 
 
+## Graphical User Interface (GUI)
+
+The project includes a graphical user interface
+that allows users to enter four Iris flower
+measurements and predict the flower species
+using the trained classification model.
+
+### GUI Prediction Example
+
+The following example shows a successful
+prediction of the Iris Setosa species.
+
+![GUI Prediction](screenshots/gui_prediction.png)
+
